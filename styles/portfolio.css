@@ -42,8 +42,9 @@ p{
     line-height: 2;
     font-size: 24px;
 }
+
 .btn-branding {
-    background-color: var(--heading-font-family);
+    background: var(--branding-color);
     border-radius: 4px;
     color: white;
     font-size: 18px;
